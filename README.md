@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mathur407yash/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/mathur407yash/LeetCode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/mathur407yash/LeetCode/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/mathur407yash/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -28,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mathur407yash/LeetCode/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/mathur407yash/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
