@@ -32,10 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mathur407yash/LeetCode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/mathur407yash/LeetCode/tree/master/0344-reverse-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mathur407yash/LeetCode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/mathur407yash/LeetCode/tree/master/0344-reverse-string) |
 ## Counting
 |  |
 | ------- |
